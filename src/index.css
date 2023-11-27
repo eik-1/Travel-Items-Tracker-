@@ -74,6 +74,10 @@ input::placeholder {
   background-color: #64CCC5;
 }
 
+.add-form button:hover {
+  transform: scale(1.05);
+}
+
 .list {
   background-color: #DAFFFB;
   color: #04364A;
